@@ -1,0 +1,17 @@
+{
+  "name": "passfeed/fitiger",
+  "autoload": {
+    "psr-4": {
+      "Te\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "sonj",
+      "email": "116265858@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  }
+}
